@@ -2276,7 +2276,7 @@ export default function App() {
           <div className="overflow-hidden rounded-[28px] border border-white/10 bg-transparent text-white">
             <div className="px-6 pt-8 pb-6 text-center md:px-10">
               <div className="text-sm uppercase tracking-[0.35em] text-white/80">Student Assessment Portal</div>
-              <h1 className="mt-4 text-4xl font-black tracking-tight md:text-6xl">CSEC Additional Mathematics</h1>
+              <h1 className="mt-4 text-4xl font-black tracking-tight md:text-6xl">CSEC ADDITIONAL MATHEMATICS</h1>
               <p className="mt-4 text-xl text-white/90 md:text-2xl">Multiple Choice Questions</p>
               <div className="relative z-10 mt-8 flex flex-wrap justify-center gap-2">
                 <Button variant={role === "student" ? "default" : "outline"} className="rounded-md shadow-[0_6px_14px_rgba(15,23,42,0.16)]" onClick={() => setRole("student")}>Student view</Button>
